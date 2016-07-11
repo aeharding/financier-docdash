@@ -1,6 +1,6 @@
 {
-  "name": "docdash",
-  "version": "0.4.0",
+  "name": "financier-docdash",
+  "version": "0.5.0",
   "description": "A clean, responsive documentation template theme for JSDoc 3 inspired by lodash and minami",
   "main": "publish.js",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clenemt/docdash.git"
+    "url": "https://github.com/aeharding/financier-docdash.git"
   },
   "devDependencies": {
     "jsdoc": "latest",
     "browser-sync": "latest",
     "watch-run": "latest"
   },
-  "author": "Clement Moron <clement.moron@gmail.com>",
+  "author": "Alexander Harding <aeharding@gmail.com>",
   "license": "Apache-2.0",
   "keywords": [
     "jsdoc",

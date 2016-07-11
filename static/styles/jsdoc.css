@@ -25,7 +25,7 @@ img {
 
 a,
 a:active {
-  color: #606;
+  color: #76b852;
   text-decoration: none;
 }
 
@@ -199,7 +199,7 @@ nav ul a:active {
 
 nav a:hover,
 nav a:active {
-  color: #606;
+  color: #76b852;
 }
 
 nav > ul {
@@ -207,7 +207,7 @@ nav > ul {
 }
 
 nav > ul > li > a {
-  color: #606;
+  color: #76b852;
 }
 
 nav ul ul {
@@ -237,7 +237,7 @@ nav h2 {
 nav > h2 > a {
    display: block;
    margin: 10px 0 -10px;
-   color: #606 !important;
+   color: #76b852 !important;
 }
 
 footer {
@@ -453,7 +453,7 @@ footer {
 }
 
 span.param-type, .params td .param-type, .param-type dd {
-   color: #606;
+   color: #76b852;
   font-family: Consolas, Monaco, 'Andale Mono', monospace
 }
 
