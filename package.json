@@ -1,6 +1,6 @@
 {
   "name": "financier-docdash",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A clean, responsive documentation template theme for JSDoc 3 inspired by lodash and minami",
   "main": "publish.js",
   "scripts": {

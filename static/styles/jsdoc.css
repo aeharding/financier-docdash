@@ -84,7 +84,7 @@ h4 {
 
 h4.name {
   color: #fff;
-  background: #6d426d;
+  background: #2e8200;
   box-shadow: 0 .25em .5em #d3d3d3;
   border-top: 1px solid #d3d3d3;
   border-bottom: 1px solid #d3d3d3;
@@ -93,11 +93,11 @@ h4.name {
 }
 
 h4.name a {
-  color: #fc83ff;
+  color: #68e723;
 }
 
 h4.name a:hover {
-  border-bottom-color: #fc83ff;
+  border-bottom-color: #68e723;
 }
 
 h5, .container-overview .subsection-title {
@@ -271,7 +271,7 @@ footer {
 }
 
 .type-signature {
-  color: #CA79CA
+  color: #76b852;
 }
 
 .type-signature:last-child {
@@ -283,7 +283,7 @@ footer {
 }
 
 .signature {
-    color: #fc83ff;
+    color: #68e723;
 }
 
 .details {
