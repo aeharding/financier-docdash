@@ -13,8 +13,8 @@
     "url": "https://github.com/aeharding/financier-docdash.git"
   },
   "devDependencies": {
-    "jsdoc": "latest",
     "browser-sync": "latest",
+    "jsdoc": "latest",
     "watch-run": "latest"
   },
   "author": "Alexander Harding <aeharding@gmail.com>",
@@ -22,5 +22,8 @@
   "keywords": [
     "jsdoc",
     "template"
-  ]
+  ],
+  "dependencies": {
+    "@jsdoc/salty": "^0.2.8"
+  }
 }
